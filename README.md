@@ -1,5 +1,5 @@
 # CDQA: Chinese Dynamic Question Answering Benchmark
-This is the repo for paper: Let LLMs Take on the Latest Challenges! A Chinese Dynamic Question Answering Benchmark.
+This is the repo for paper: [Let LLMs Take on the Latest Challenges! A Chinese Dynamic Question Answering Benchmark](https://arxiv.org/abs/2402.19248).
 
 We propose a Chinese QA benchmark containing question-answer pairs related to the latest news on the Chinese Internet by the following semi-automatic generation pipeline.
 <img src="assets/cfreshqa_pipeline.png" style="zoom:30%;" />
